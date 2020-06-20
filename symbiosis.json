@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Allinums",
+        "helps": ["Fruit trees","tomatoes", "capsicum peppers", "potatoes", "brassicas", "carrots"],
+        "helpedby" : ["Carrots","tomatoes", "African spider plants", "marigolds", "mints", "Fruit trees"],
+        "avoid" : ["Beans","Peas"],
+        "attracts" : ["Thrips"],
+        "repels" : ["Beans","Peas"],
+        "comment" : "Alliums are a family of plants which include onions, garlic, leeks, shallots, chives, and others",
+        "photoUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Allium_sativum_Woodwill_1793.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Asparagus",
+        "helps": ["Tomatoes","parsley"],
+        "helpedby" : ["Aster family flowers","dill","coriander","tomatoes","parsley","basil","comfrey"," marigolds",                        "nasturtiums"],
+        "attracts" : ["lady bug"],
+        "repels" : ["none"],
+        "avoid" : ["onion","garlic","potatos"],
+        "comment" : "none",
+        "photoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/320px-Asparagus-Bundle.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Beans bush",
+        "helps": ["cucumber","soyabeans", "strawberries"],
+        "helpedby" : ["Carrots","strawberries", "grains"],
+        "avoid" : ["Fennels","soyabeans","drybeans"],
+        "attracts" : ["none"],
+        "repels" : ["none"],
+        "comment" : "Lettuce, potato, tomato, other legumes, crucifers, or cucurbits increase sclerotinia in the soil and                    should be avoided before and after snap beans.",
+        "photoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bean-lubia.jpg/330px-Bean-lubia.jpg"
+    },
+        {
+        "id": 4,
+        "name": "Beans pole",
+        "helps": "none",
+        "helpedby" : ["Radish","corn"],
+        "attracts" : "none",
+        "repels" : "none",
+        "avoid" : ["sunflower","beets","kohlrabi"],
+        "comment" :"the stalk of the corn provides a pole for the beans to grow on, which then gives nitrogen to the soil of               the corn.",
+        "photoUrl":"https://www.gardeningknowhow.com/wp-content/uploads/2009/03/bean-supports.jpg"
+    }
+]
