@@ -369,7 +369,7 @@
 	},
 	{
 
-		"id": 31,
+		"id": 32,
 		"name": "Soyabean",
 		"helps": ["none"],
 		"helpedby": ["Corn", "snap beans", "sunflower"],
@@ -381,7 +381,7 @@
 	},
 	{
 
-		"id": 32,
+		"id": 33,
 		"name": "Spinach",
 		"helps": ["Brassicas", "cauliflower", "passion fruit"],
 		"helpedby": ["Strawberries", "peas", "beans", "cauliflower"],
@@ -393,7 +393,7 @@
 	},
 	{
 
-		"id": 33,
+		"id": 34,
 		"name": "Squash",
 		"helps": ["corn", "bean", "okra"],
 		"helpedby": ["beans", "Beans", "buckwheat", "borage", "catnip", "tansy", "radishes", "marigolds", "nasturtiums"],
@@ -406,7 +406,7 @@
 
 	{
 
-		"id": 34,
+		"id": 35,
 		"name": "Sweet potato",
 		"helps": ["none"],
 		"helpedby": ["Okra"],
@@ -418,7 +418,7 @@
 	},
 	{
 
-		"id": 35,
+		"id": 36,
 		"name": "Tomatoes",
 		"helps": ["Brassicas", "broccoli", "cabbage", "celery", "roses", "peppers", "asparagus"],
 		"helpedby": ["Asparagus", "basil", "beans", "bee balm ", " oregano", "parsley", "marigold", "alliums", "leeks", "garlic", "celery", "geraniums", "petunias", "nasturtium", "borage", "coriander", "chives", "corn", "dill", "mustard", "barley", "carrots", "eggplant", "mints", "okra", "sage", "thyme", "flower strips"],
@@ -430,7 +430,7 @@
 	},
 	{
 
-		"id": 36,
+		"id": 37,
 		"name": "Turnips and rutabags",
 		"helps": ["pea", "broccoli"],
 		"helpedby": ["Hairy vetch", "pea"],
@@ -439,18 +439,6 @@
 		"avoid": ["hedge", "mustard", "knotweed"],
 		"comment": "Turnips act as a trap crop for broccoli. See peas regarding their mutualism with turnips",
 		"photoUrl": "none"
-	},
-	{
-
-		"id": 37,
-		"name": "pple",
-		"helps": ["none"],
-		"helpedby": ["Clover", "chives", "garlic", "leeks", "nasturtium", "southernwood", "daffodils", "comfrey"],
-		"attracts": ["none"],
-		"repels": ["none"],
-		"avoid": ["Cedar because of apple-cedar rust. Walnut because its roots produce growth inhibitors that apple trees are sensitive to"],
-		"comment": ["none"],
-		"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Honeycrisp.jpg"
 	},
 	{
 
@@ -1164,10 +1152,19 @@
 		"avoid": ["Apple trees", "grasses"],
 		"comment": "Black walnut is harmful to the growth of all nightshade plants, including Datura or Jimson weed, eggplant, mandrake, deadly nightshade or belladonna, capsicum (paprika, chile pepper), potato, tomato, and petunia.",
 		"photoUrl": ["none"]
+	},
+
+        {
+
+		"id": 98,
+		"name": "Apple",
+		"helps": ["none"],
+		"helpedby": ["Clover", "chives", "garlic", "leeks", "nasturtium", "southernwood", "daffodils", "comfrey"],
+		"attracts": ["none"],
+		"repels": ["none"],
+		"avoid": ["Cedar because of apple-cedar rust. Walnut because its roots produce growth inhibitors that apple trees are sensitive to"],
+		"comment": ["none"],
+		"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Honeycrisp.jpg"
 	}
-
-
-
-
 
 ]
