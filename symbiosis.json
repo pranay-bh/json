@@ -28,7 +28,7 @@
 		"avoid": ["Fennels", "soyabeans", "drybeans"],
 		"attracts": ["none"],
 		"repels": ["none"],
-		"comment": "Lettuce, potato, tomato, other legumes, crucifers, or cucurbits increase sclerotinia in the soil and                    should be avoided before and after snap beans.",
+		"comment": "Lettuce, potato, tomato, other legumes, crucifers, or cucurbits increase sclerotinia in the soil and should be avoided before and after snap beans.",
 		"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bean-lubia.jpg/330px-Bean-lubia.jpg"
 	},
 	{
@@ -39,7 +39,7 @@
 		"attracts": ["none"],
 		"repels": ["none"],
 		"avoid": ["sunflower", "beets", "kohlrabi"],
-		"comment": "the stalk of the corn provides a pole for the beans to grow on, which then gives nitrogen to the soil of               the corn.",
+		"comment": "the stalk of the corn provides a pole for the beans to grow on, which then gives nitrogen to the soil of the corn.",
 		"photoUrl": "https://www.gardeningknowhow.com/wp-content/uploads/2009/03/bean-supports.jpg"
 	},
 	{
