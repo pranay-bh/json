@@ -45,7 +45,7 @@
 	{
 
 		"id": 5,
-		"name": ["Beets"],
+		"name": "Beets",
 		"helps": ["Broccoli", "bush beans", "cabbage", "lettuce", "kohlrabi", "onions", "brassicas", "passion fruit"],
 		"helpedby": ["Bush beans", "onions", "kohlrabi", "catnip", "garlic", "lettuce", "most brassicas", "mint"],
 		"attracts": [""],
@@ -155,9 +155,9 @@
 	{
 
 		"id": 14,
-		"name": ["Corn"],
+		"name": "Corn",
 		"helps": ["Beans", "cucurbits", "soybeans", "tomatoes"],
-		"helpedby": ["Sunflowers", "dill", "(beans, peas, soybeans etc.)", "peanuts", "cucurbits", "clover", "amaranth", "white geranium", " pigweed", "lamb's quarters", "morning glory, parsley, and potato,", "] field mustard", "Sudan grass"],
+		"helpedby": ["Sunflowers", "dill", "(beans, peas, soybeans etc.)", "peanuts", "cucurbits", "clover", "amaranth", "white geranium", " pigweed", "lamb's quarters", "morning glory", "parsley","potatos", "field mustard", "Sudan grass"],
 		"attracts": ["none"],
 		"repels": ["none"],
 		"avoid": ["Tomatoes", "Celery"],
